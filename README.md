@@ -1,5 +1,5 @@
 # Hi 👋, I'm Agustina.
-## I am a developer focused on fullstack web-apps.
+## I am a full-stack web application developer.
 
 *   🌍  I'm from Uruguay
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://agustinagonzalez1.github.io/'>Portfolio</a>
